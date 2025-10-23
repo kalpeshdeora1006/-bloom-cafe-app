@@ -1,1 +1,23 @@
+[
+  {
+    "section": "COLD COFFEE",
+    "items": [
+      { "name": "Cold Coffee", "price": 149 },
+      { "name": "Cold Coffee With Ice Cream", "price": 179 },
+      { "name": "Cookies Tea / Masala Tea", "price": 49 },
+      { "name": "Black Tea", "price": 39 },
+      { "name": "Hot Coffee", "price": 59 }
+    ]
+  },
+  {
+    "section": "SHAKE",
+    "items": [
+      { "name": "Vanila Shake", "price": 149 },
+      { "name": "Chocolate Shake", "price": 159 },
+      { "name": "Kit Kat Shake", "price": 179 },
+      { "name": "Oreo Shake", "price": 169 },
+      { "name": "Butter Scotch Shake", "price": 169 }
+    ]
+  }
+]
 
